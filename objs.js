@@ -1,6 +1,6 @@
 const person = {
-    firstName: "John",
-    lastName: "Doe",
+    firstName: "Visakh",
+    lastName: "S",
     id: 5566,
     fullName: function() {
       return this.firstName + " " + this.lastName;
